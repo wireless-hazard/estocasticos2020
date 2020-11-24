@@ -118,9 +118,9 @@ void app_main()
         // ESP_LOGI(TAG,"Valor aleatorio: %d",esp_random());
         // vTaskDelay(1000/portTICK_PERIOD_MS);
     // }
-    uint32_t buffer[450] = {0,};
-    esp_fill_random(buffer,450*sizeof(uint32_t));
-    for(int i = 0; i <= 449; i++){
-        printf("%d,",buffer[i]);
+    uint32_t buffer[490] = {0,};
+    esp_fill_random(buffer,490*sizeof(uint32_t));
+    for(int i = 0; i <= 489; i++){
+        printf("%u,",buffer[i]);
     }
 }
