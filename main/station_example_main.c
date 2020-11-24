@@ -39,6 +39,8 @@ static const char *TAG = "wifi station";
 
 static int s_retry_num = 0;
 
+static SemaphoreHandle_t SemaphoreNetConnected = NULL;
+
 static esp_err_t event_handler(void *ctx, system_event_t *event)
 {
     switch(event->event_id) {
@@ -50,6 +52,7 @@ static esp_err_t event_handler(void *ctx, system_event_t *event)
                  ip4addr_ntoa(&event->event_info.got_ip.ip_info.ip));
         s_retry_num = 0;
         xEventGroupSetBits(s_wifi_event_group, WIFI_CONNECTED_BIT);
+        xSemaphoreGive(SemaphoreNetConnected);
         break;
     case SYSTEM_EVENT_STA_DISCONNECTED:
         {
@@ -104,5 +107,20 @@ void app_main()
     ESP_ERROR_CHECK(ret);
     
     ESP_LOGI(TAG, "ESP_WIFI_MODE_STA");
+    SemaphoreNetConnected = xSemaphoreCreateBinary();
+    if (SemaphoreNetConnected == NULL){
+        ESP_LOGE(TAG,"ERROR CREATING SEMAPHORE: NETCONNECTED");
+    }
     wifi_init_sta();
+    xSemaphoreTake(SemaphoreNetConnected,portMAX_DELAY);
+
+    // while(true){
+        // ESP_LOGI(TAG,"Valor aleatorio: %d",esp_random());
+        // vTaskDelay(1000/portTICK_PERIOD_MS);
+    // }
+    uint32_t buffer[450] = {0,};
+    esp_fill_random(buffer,450*sizeof(uint32_t));
+    for(int i = 0; i <= 449; i++){
+        printf("%d,",buffer[i]);
+    }
 }
