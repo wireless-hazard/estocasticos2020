@@ -1,4 +1,4 @@
-In archive /home/magno/esp-idf/examples/wifi/getting_started/softAP/build/esp-idf/protobuf-c/libprotobuf-c.a:
+In archive /home/magno/Documents/Github/estocasticos2020/build/esp-idf/protobuf-c/libprotobuf-c.a:
 
 protobuf-c.c.obj:     file format elf32-xtensa-le
 
@@ -302,25 +302,25 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
 148 .debug_frame  000005b0  00000000  00000000  00004a6c  2**2
                   CONTENTS, RELOC, READONLY, DEBUGGING
-149 .debug_info   0000651a  00000000  00000000  0000501c  2**0
+149 .debug_info   00006516  00000000  00000000  0000501c  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-150 .debug_abbrev 0000047d  00000000  00000000  0000b536  2**0
+150 .debug_abbrev 0000047b  00000000  00000000  0000b532  2**0
                   CONTENTS, READONLY, DEBUGGING
-151 .debug_loc    00008822  00000000  00000000  0000b9b3  2**0
+151 .debug_loc    00008822  00000000  00000000  0000b9ad  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-152 .debug_aranges 000001f8  00000000  00000000  000141d5  2**0
+152 .debug_aranges 000001f8  00000000  00000000  000141cf  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-153 .debug_ranges 000005f8  00000000  00000000  000143cd  2**0
+153 .debug_ranges 000005f8  00000000  00000000  000143c7  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-154 .debug_line   0000455f  00000000  00000000  000149c5  2**0
+154 .debug_line   00004569  00000000  00000000  000149bf  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-155 .debug_str    00001582  00000000  00000000  00018f24  2**0
+155 .debug_str    00001543  00000000  00000000  00018f28  2**0
                   CONTENTS, READONLY, DEBUGGING
-156 .comment      0000003b  00000000  00000000  0001a4a6  2**0
+156 .comment      0000003b  00000000  00000000  0001a46b  2**0
                   CONTENTS, READONLY
-157 .xtensa.info  00000038  00000000  00000000  0001a4e1  2**0
+157 .xtensa.info  00000038  00000000  00000000  0001a4a6  2**0
                   CONTENTS, READONLY
-158 .xt.lit       00000180  00000000  00000000  0001a519  2**0
+158 .xt.lit       00000180  00000000  00000000  0001a4de  2**0
                   CONTENTS, RELOC, READONLY
-159 .xt.prop      00004ef0  00000000  00000000  0001a699  2**0
+159 .xt.prop      00004ef0  00000000  00000000  0001a65e  2**0
                   CONTENTS, RELOC, READONLY

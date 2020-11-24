@@ -12,7 +12,7 @@
         "0x8000" : "partition_table/partition-table.bin",
         "" : "",
         "" : "",
-        "0x10000" : "wifi_softAP.bin"
+        "0x10000" : "wifi_station.bin"
     },
     "bootloader" :      { "offset" : "0x1000",
                           "file" : "bootloader/bootloader.bin" },
@@ -21,7 +21,7 @@
     "otadata" : { "offset" : "",
                   "file" : "" },
     "app" :             { "offset" : "0x10000",
-                          "file" : "wifi_softAP.bin" },
+                          "file" : "wifi_station.bin" },
     "extra_esptool_args" : {
         "after"  : "hard_reset",
         "before" : "default_reset"

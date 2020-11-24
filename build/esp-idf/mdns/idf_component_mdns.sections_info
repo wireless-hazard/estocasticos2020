@@ -1,4 +1,4 @@
-In archive /home/magno/esp-idf/examples/wifi/getting_started/softAP/build/esp-idf/mdns/libmdns.a:
+In archive /home/magno/Documents/Github/estocasticos2020/build/esp-idf/mdns/libmdns.a:
 
 mdns.c.obj:     file format elf32-xtensa-le
 
@@ -508,17 +508,17 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
 251 .debug_ranges 00000540  00000000  00000000  000201e3  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-252 .debug_line   0000612e  00000000  00000000  00020723  2**0
+252 .debug_line   0000615b  00000000  00000000  00020723  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-253 .debug_str    00002733  00000000  00000000  00026851  2**0
+253 .debug_str    00002728  00000000  00000000  0002687e  2**0
                   CONTENTS, READONLY, DEBUGGING
-254 .comment      0000003b  00000000  00000000  00028f84  2**0
+254 .comment      0000003b  00000000  00000000  00028fa6  2**0
                   CONTENTS, READONLY
-255 .xtensa.info  00000038  00000000  00000000  00028fbf  2**0
+255 .xtensa.info  00000038  00000000  00000000  00028fe1  2**0
                   CONTENTS, READONLY
-256 .xt.lit       00000380  00000000  00000000  00028ff7  2**0
+256 .xt.lit       00000380  00000000  00000000  00029019  2**0
                   CONTENTS, RELOC, READONLY
-257 .xt.prop      000066e4  00000000  00000000  00029377  2**0
+257 .xt.prop      000066e4  00000000  00000000  00029399  2**0
                   CONTENTS, RELOC, READONLY
 
 mdns_console.c.obj:     file format elf32-xtensa-le
@@ -805,17 +805,17 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
 139 .debug_ranges 00000150  00000000  00000000  00009462  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-140 .debug_line   000013bd  00000000  00000000  000095b2  2**0
+140 .debug_line   000013ea  00000000  00000000  000095b2  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-141 .debug_str    000010ec  00000000  00000000  0000a96f  2**0
+141 .debug_str    000010e1  00000000  00000000  0000a99c  2**0
                   CONTENTS, READONLY, DEBUGGING
-142 .comment      0000003b  00000000  00000000  0000ba5b  2**0
+142 .comment      0000003b  00000000  00000000  0000ba7d  2**0
                   CONTENTS, READONLY
-143 .xtensa.info  00000038  00000000  00000000  0000ba96  2**0
+143 .xtensa.info  00000038  00000000  00000000  0000bab8  2**0
                   CONTENTS, READONLY
-144 .xt.lit       00000148  00000000  00000000  0000bace  2**0
+144 .xt.lit       00000148  00000000  00000000  0000baf0  2**0
                   CONTENTS, RELOC, READONLY
-145 .xt.prop      00001248  00000000  00000000  0000bc16  2**0
+145 .xt.prop      00001248  00000000  00000000  0000bc38  2**0
                   CONTENTS, RELOC, READONLY
 
 mdns_networking.c.obj:     file format elf32-xtensa-le
@@ -898,15 +898,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  37 .debug_ranges 000000a0  00000000  00000000  00002b96  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 38 .debug_line   0000092c  00000000  00000000  00002c36  2**0
+ 38 .debug_line   00000963  00000000  00000000  00002c36  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 39 .debug_str    00000eca  00000000  00000000  00003562  2**0
+ 39 .debug_str    00000ebf  00000000  00000000  00003599  2**0
                   CONTENTS, READONLY, DEBUGGING
- 40 .comment      0000003b  00000000  00000000  0000442c  2**0
+ 40 .comment      0000003b  00000000  00000000  00004458  2**0
                   CONTENTS, READONLY
- 41 .xtensa.info  00000038  00000000  00000000  00004467  2**0
+ 41 .xtensa.info  00000038  00000000  00000000  00004493  2**0
                   CONTENTS, READONLY
- 42 .xt.lit       00000068  00000000  00000000  0000449f  2**0
+ 42 .xt.lit       00000068  00000000  00000000  000044cb  2**0
                   CONTENTS, RELOC, READONLY
- 43 .xt.prop      00000564  00000000  00000000  00004507  2**0
+ 43 .xt.prop      00000564  00000000  00000000  00004533  2**0
                   CONTENTS, RELOC, READONLY

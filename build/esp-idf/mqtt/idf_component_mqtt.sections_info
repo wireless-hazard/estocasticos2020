@@ -1,4 +1,4 @@
-In archive /home/magno/esp-idf/examples/wifi/getting_started/softAP/build/esp-idf/mqtt/libmqtt.a:
+In archive /home/magno/Documents/Github/estocasticos2020/build/esp-idf/mqtt/libmqtt.a:
 
 mqtt_client.c.obj:     file format elf32-xtensa-le
 
@@ -146,17 +146,17 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  70 .debug_ranges 00000108  00000000  00000000  000095f4  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 71 .debug_line   00001cd2  00000000  00000000  000096fc  2**0
+ 71 .debug_line   00001d09  00000000  00000000  000096fc  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 72 .debug_str    0000195c  00000000  00000000  0000b3ce  2**0
+ 72 .debug_str    00001951  00000000  00000000  0000b405  2**0
                   CONTENTS, READONLY, DEBUGGING
- 73 .comment      0000003b  00000000  00000000  0000cd2a  2**0
+ 73 .comment      0000003b  00000000  00000000  0000cd56  2**0
                   CONTENTS, READONLY
- 74 .xtensa.info  00000038  00000000  00000000  0000cd65  2**0
+ 74 .xtensa.info  00000038  00000000  00000000  0000cd91  2**0
                   CONTENTS, READONLY
- 75 .xt.lit       000000d0  00000000  00000000  0000cd9d  2**0
+ 75 .xt.lit       000000d0  00000000  00000000  0000cdc9  2**0
                   CONTENTS, RELOC, READONLY
- 76 .xt.prop      0000141c  00000000  00000000  0000ce6d  2**0
+ 76 .xt.prop      0000141c  00000000  00000000  0000ce99  2**0
                   CONTENTS, RELOC, READONLY
 
 mqtt_msg.c.obj:     file format elf32-xtensa-le
@@ -263,17 +263,17 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  49 .debug_ranges 000000e0  00000000  00000000  00003328  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 50 .debug_line   000009ec  00000000  00000000  00003408  2**0
+ 50 .debug_line   000009fb  00000000  00000000  00003408  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 51 .debug_str    000007d3  00000000  00000000  00003df4  2**0
+ 51 .debug_str    000007c8  00000000  00000000  00003e03  2**0
                   CONTENTS, READONLY, DEBUGGING
- 52 .comment      0000003b  00000000  00000000  000045c7  2**0
+ 52 .comment      0000003b  00000000  00000000  000045cb  2**0
                   CONTENTS, READONLY
- 53 .xtensa.info  00000038  00000000  00000000  00004602  2**0
+ 53 .xtensa.info  00000038  00000000  00000000  00004606  2**0
                   CONTENTS, READONLY
- 54 .xt.lit       00000080  00000000  00000000  0000463a  2**0
+ 54 .xt.lit       00000080  00000000  00000000  0000463e  2**0
                   CONTENTS, RELOC, READONLY
- 55 .xt.prop      00000aec  00000000  00000000  000046ba  2**0
+ 55 .xt.prop      00000aec  00000000  00000000  000046be  2**0
                   CONTENTS, RELOC, READONLY
 
 mqtt_outbox.c.obj:     file format elf32-xtensa-le
@@ -352,17 +352,17 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  35 .debug_ranges 000000d8  00000000  00000000  000017f2  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 36 .debug_line   0000075e  00000000  00000000  000018ca  2**0
+ 36 .debug_line   00000777  00000000  00000000  000018ca  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 37 .debug_str    000004c4  00000000  00000000  00002028  2**0
+ 37 .debug_str    000004b9  00000000  00000000  00002041  2**0
                   CONTENTS, READONLY, DEBUGGING
- 38 .comment      0000003b  00000000  00000000  000024ec  2**0
+ 38 .comment      0000003b  00000000  00000000  000024fa  2**0
                   CONTENTS, READONLY
- 39 .xtensa.info  00000038  00000000  00000000  00002527  2**0
+ 39 .xtensa.info  00000038  00000000  00000000  00002535  2**0
                   CONTENTS, READONLY
- 40 .xt.lit       00000050  00000000  00000000  0000255f  2**0
+ 40 .xt.lit       00000050  00000000  00000000  0000256d  2**0
                   CONTENTS, RELOC, READONLY
- 41 .xt.prop      00000570  00000000  00000000  000025af  2**0
+ 41 .xt.prop      00000570  00000000  00000000  000025bd  2**0
                   CONTENTS, RELOC, READONLY
 
 platform_esp32_idf.c.obj:     file format elf32-xtensa-le
@@ -407,15 +407,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  18 .debug_ranges 00000028  00000000  00000000  00000811  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 19 .debug_line   00000238  00000000  00000000  00000839  2**0
+ 19 .debug_line   00000251  00000000  00000000  00000839  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 20 .debug_str    00000327  00000000  00000000  00000a71  2**0
+ 20 .debug_str    0000031c  00000000  00000000  00000a8a  2**0
                   CONTENTS, READONLY, DEBUGGING
- 21 .comment      0000003b  00000000  00000000  00000d98  2**0
+ 21 .comment      0000003b  00000000  00000000  00000da6  2**0
                   CONTENTS, READONLY
- 22 .xtensa.info  00000038  00000000  00000000  00000dd3  2**0
+ 22 .xtensa.info  00000038  00000000  00000000  00000de1  2**0
                   CONTENTS, READONLY
- 23 .xt.lit       00000020  00000000  00000000  00000e0b  2**0
+ 23 .xt.lit       00000020  00000000  00000000  00000e19  2**0
                   CONTENTS, RELOC, READONLY
- 24 .xt.prop      000000f0  00000000  00000000  00000e2b  2**0
+ 24 .xt.prop      000000f0  00000000  00000000  00000e39  2**0
                   CONTENTS, RELOC, READONLY

@@ -34,8 +34,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/magno/esp-idf/examples/wifi/getting_started/softAP/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
-  include("/home/magno/esp-idf/examples/wifi/getting_started/softAP/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
+  include("/home/magno/Documents/Github/estocasticos2020/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
+  include("/home/magno/Documents/Github/estocasticos2020/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
 
 endif()
 

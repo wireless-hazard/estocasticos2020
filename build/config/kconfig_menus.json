@@ -1194,11 +1194,11 @@
             {
                 "children": [],
                 "depends_on": null,
-                "help": "Max number of the STA connects to AP.\n",
-                "id": "MAX_STA_CONN",
-                "name": "MAX_STA_CONN",
+                "help": "Set the Maximum retry to avoid station reconnecting to the AP unlimited when the AP is really inexistent.\n",
+                "id": "ESP_MAXIMUM_RETRY",
+                "name": "ESP_MAXIMUM_RETRY",
                 "range": null,
-                "title": "Maximal STA connections",
+                "title": "Maximum retry",
                 "type": "int"
             }
         ],

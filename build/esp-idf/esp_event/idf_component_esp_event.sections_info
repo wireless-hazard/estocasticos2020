@@ -1,4 +1,4 @@
-In archive /home/magno/esp-idf/examples/wifi/getting_started/softAP/build/esp-idf/esp_event/libesp_event.a:
+In archive /home/magno/Documents/Github/estocasticos2020/build/esp-idf/esp_event/libesp_event.a:
 
 default_event_loop.c.obj:     file format elf32-xtensa-le
 
@@ -48,17 +48,17 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  21 .debug_ranges 00000030  00000000  00000000  00000816  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 22 .debug_line   0000031d  00000000  00000000  00000846  2**0
+ 22 .debug_line   00000336  00000000  00000000  00000846  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 23 .debug_str    000003f0  00000000  00000000  00000b63  2**0
+ 23 .debug_str    000003e5  00000000  00000000  00000b7c  2**0
                   CONTENTS, READONLY, DEBUGGING
- 24 .comment      0000003b  00000000  00000000  00000f53  2**0
+ 24 .comment      0000003b  00000000  00000000  00000f61  2**0
                   CONTENTS, READONLY
- 25 .xtensa.info  00000038  00000000  00000000  00000f8e  2**0
+ 25 .xtensa.info  00000038  00000000  00000000  00000f9c  2**0
                   CONTENTS, READONLY
- 26 .xt.lit       00000028  00000000  00000000  00000fc6  2**0
+ 26 .xt.lit       00000028  00000000  00000000  00000fd4  2**0
                   CONTENTS, RELOC, READONLY
- 27 .xt.prop      000001b0  00000000  00000000  00000fee  2**0
+ 27 .xt.prop      000001b0  00000000  00000000  00000ffc  2**0
                   CONTENTS, RELOC, READONLY
 
 esp_event.c.obj:     file format elf32-xtensa-le
@@ -173,17 +173,17 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  53 .debug_ranges 00000108  00000000  00000000  00004c54  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 54 .debug_line   00001042  00000000  00000000  00004d5c  2**0
+ 54 .debug_line   0000106a  00000000  00000000  00004d5c  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 55 .debug_str    00000d9f  00000000  00000000  00005d9e  2**0
+ 55 .debug_str    00000d94  00000000  00000000  00005dc6  2**0
                   CONTENTS, READONLY, DEBUGGING
- 56 .comment      0000003b  00000000  00000000  00006b3d  2**0
+ 56 .comment      0000003b  00000000  00000000  00006b5a  2**0
                   CONTENTS, READONLY
- 57 .xtensa.info  00000038  00000000  00000000  00006b78  2**0
+ 57 .xtensa.info  00000038  00000000  00000000  00006b95  2**0
                   CONTENTS, READONLY
- 58 .xt.lit       00000090  00000000  00000000  00006bb0  2**0
+ 58 .xt.lit       00000090  00000000  00000000  00006bcd  2**0
                   CONTENTS, RELOC, READONLY
- 59 .xt.prop      00000ce4  00000000  00000000  00006c40  2**0
+ 59 .xt.prop      00000ce4  00000000  00000000  00006c5d  2**0
                   CONTENTS, RELOC, READONLY
 
 esp_event_private.c.obj:     file format elf32-xtensa-le
@@ -212,15 +212,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  10 .debug_ranges 00000010  00000000  00000000  00000834  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 11 .debug_line   000002d9  00000000  00000000  00000844  2**0
+ 11 .debug_line   000002f2  00000000  00000000  00000844  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 12 .debug_str    000004be  00000000  00000000  00000b1d  2**0
+ 12 .debug_str    000004b3  00000000  00000000  00000b36  2**0
                   CONTENTS, READONLY, DEBUGGING
- 13 .comment      0000003b  00000000  00000000  00000fdb  2**0
+ 13 .comment      0000003b  00000000  00000000  00000fe9  2**0
                   CONTENTS, READONLY
- 14 .xtensa.info  00000038  00000000  00000000  00001016  2**0
+ 14 .xtensa.info  00000038  00000000  00000000  00001024  2**0
                   CONTENTS, READONLY
- 15 .xt.lit       00000008  00000000  00000000  0000104e  2**0
+ 15 .xt.lit       00000008  00000000  00000000  0000105c  2**0
                   CONTENTS, RELOC, READONLY
- 16 .xt.prop      00000138  00000000  00000000  00001056  2**0
+ 16 .xt.prop      00000138  00000000  00000000  00001064  2**0
                   CONTENTS, RELOC, READONLY

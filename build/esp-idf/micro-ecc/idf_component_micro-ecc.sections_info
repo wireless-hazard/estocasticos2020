@@ -1,4 +1,4 @@
-In archive /home/magno/esp-idf/examples/wifi/getting_started/softAP/build/esp-idf/micro-ecc/libmicro-ecc.a:
+In archive /home/magno/Documents/Github/estocasticos2020/build/esp-idf/micro-ecc/libmicro-ecc.a:
 
 uECC.c.obj:     file format elf32-xtensa-le
 
@@ -286,25 +286,25 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   ALLOC
 140 .debug_frame  00000718  00000000  00000000  00003114  2**2
                   CONTENTS, RELOC, READONLY, DEBUGGING
-141 .debug_info   00005b05  00000000  00000000  0000382c  2**0
+141 .debug_info   00005b01  00000000  00000000  0000382c  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-142 .debug_abbrev 00000372  00000000  00000000  00009331  2**0
+142 .debug_abbrev 00000370  00000000  00000000  0000932d  2**0
                   CONTENTS, READONLY, DEBUGGING
-143 .debug_loc    00001bc2  00000000  00000000  000096a3  2**0
+143 .debug_loc    00001bc2  00000000  00000000  0000969d  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-144 .debug_aranges 00000270  00000000  00000000  0000b265  2**0
+144 .debug_aranges 00000270  00000000  00000000  0000b25f  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-145 .debug_ranges 00000278  00000000  00000000  0000b4d5  2**0
+145 .debug_ranges 00000278  00000000  00000000  0000b4cf  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-146 .debug_line   00001d0c  00000000  00000000  0000b74d  2**0
+146 .debug_line   00001d16  00000000  00000000  0000b747  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-147 .debug_str    000009ea  00000000  00000000  0000d459  2**0
+147 .debug_str    000009ab  00000000  00000000  0000d45d  2**0
                   CONTENTS, READONLY, DEBUGGING
-148 .comment      0000003b  00000000  00000000  0000de43  2**0
+148 .comment      0000003b  00000000  00000000  0000de08  2**0
                   CONTENTS, READONLY
-149 .xtensa.info  00000038  00000000  00000000  0000de7e  2**0
+149 .xtensa.info  00000038  00000000  00000000  0000de43  2**0
                   CONTENTS, READONLY
-150 .xt.lit       000001c0  00000000  00000000  0000deb6  2**0
+150 .xt.lit       000001c0  00000000  00000000  0000de7b  2**0
                   CONTENTS, RELOC, READONLY
-151 .xt.prop      00001734  00000000  00000000  0000e076  2**0
+151 .xt.prop      00001734  00000000  00000000  0000e03b  2**0
                   CONTENTS, RELOC, READONLY

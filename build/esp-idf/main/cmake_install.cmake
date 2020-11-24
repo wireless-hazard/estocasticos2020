@@ -1,4 +1,4 @@
-# Install script for directory: /home/magno/esp-idf/examples/wifi/getting_started/softAP/main
+# Install script for directory: /home/magno/Documents/Github/estocasticos2020/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

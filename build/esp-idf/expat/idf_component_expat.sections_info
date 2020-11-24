@@ -1,4 +1,4 @@
-In archive /home/magno/esp-idf/examples/wifi/getting_started/softAP/build/esp-idf/expat/libexpat.a:
+In archive /home/magno/Documents/Github/estocasticos2020/build/esp-idf/expat/libexpat.a:
 
 xmlparse.c.obj:     file format elf32-xtensa-le
 
@@ -548,17 +548,17 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
 271 .debug_ranges 00000d28  00000000  00000000  0001b7ab  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-272 .debug_line   00006bee  00000000  00000000  0001c4d3  2**0
+272 .debug_line   00006c02  00000000  00000000  0001c4d3  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-273 .debug_str    000033f3  00000000  00000000  000230c1  2**0
+273 .debug_str    000033e8  00000000  00000000  000230d5  2**0
                   CONTENTS, READONLY, DEBUGGING
-274 .comment      0000003b  00000000  00000000  000264b4  2**0
+274 .comment      0000003b  00000000  00000000  000264bd  2**0
                   CONTENTS, READONLY
-275 .xtensa.info  00000038  00000000  00000000  000264ef  2**0
+275 .xtensa.info  00000038  00000000  00000000  000264f8  2**0
                   CONTENTS, READONLY
-276 .xt.lit       00000280  00000000  00000000  00026527  2**0
+276 .xt.lit       00000280  00000000  00000000  00026530  2**0
                   CONTENTS, RELOC, READONLY
-277 .xt.prop      00007ac4  00000000  00000000  000267a7  2**0
+277 .xt.prop      00007ac4  00000000  00000000  000267b0  2**0
                   CONTENTS, RELOC, READONLY
 
 xmlrole.c.obj:     file format elf32-xtensa-le
@@ -1568,27 +1568,27 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
 345 .debug_frame  00000cd0  00000000  00000000  0000d29c  2**2
                   CONTENTS, RELOC, READONLY, DEBUGGING
-346 .debug_info   00005e61  00000000  00000000  0000df6c  2**0
+346 .debug_info   00005e5d  00000000  00000000  0000df6c  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-347 .debug_abbrev 0000040e  00000000  00000000  00013dcd  2**0
+347 .debug_abbrev 0000040c  00000000  00000000  00013dc9  2**0
                   CONTENTS, READONLY, DEBUGGING
-348 .debug_loc    0000b67b  00000000  00000000  000141db  2**0
+348 .debug_loc    0000b67b  00000000  00000000  000141d5  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-349 .debug_aranges 00000458  00000000  00000000  0001f856  2**0
+349 .debug_aranges 00000458  00000000  00000000  0001f850  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-350 .debug_ranges 000007c0  00000000  00000000  0001fcae  2**0
+350 .debug_ranges 000007c0  00000000  00000000  0001fca8  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-351 .debug_line   00008ea3  00000000  00000000  0002046e  2**0
+351 .debug_line   00008ea3  00000000  00000000  00020468  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-352 .debug_str    000012e6  00000000  00000000  00029311  2**0
+352 .debug_str    000012a7  00000000  00000000  0002930b  2**0
                   CONTENTS, READONLY, DEBUGGING
-353 .comment      0000003b  00000000  00000000  0002a5f7  2**0
+353 .comment      0000003b  00000000  00000000  0002a5b2  2**0
                   CONTENTS, READONLY
-354 .xtensa.info  00000038  00000000  00000000  0002a632  2**0
+354 .xtensa.info  00000038  00000000  00000000  0002a5ed  2**0
                   CONTENTS, READONLY
-355 .xt.lit       00000360  00000000  00000000  0002a66a  2**0
+355 .xt.lit       00000360  00000000  00000000  0002a625  2**0
                   CONTENTS, RELOC, READONLY
-356 .xt.prop      0000ec58  00000000  00000000  0002a9ca  2**0
+356 .xt.prop      0000ec58  00000000  00000000  0002a985  2**0
                   CONTENTS, RELOC, READONLY
 
 xmltok_impl.c.obj:     file format elf32-xtensa-le

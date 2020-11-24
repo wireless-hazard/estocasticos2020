@@ -1,4 +1,4 @@
-In archive /home/magno/esp-idf/examples/wifi/getting_started/softAP/build/esp-idf/log/liblog.a:
+In archive /home/magno/Documents/Github/estocasticos2020/build/esp-idf/log/liblog.a:
 
 log.c.obj:     file format elf32-xtensa-le
 
@@ -76,15 +76,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  35 .debug_ranges 00000050  00000000  00000000  00002935  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 36 .debug_line   00000860  00000000  00000000  00002985  2**0
+ 36 .debug_line   0000087e  00000000  00000000  00002985  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 37 .debug_str    0000068e  00000000  00000000  000031e5  2**0
+ 37 .debug_str    00000683  00000000  00000000  00003203  2**0
                   CONTENTS, READONLY, DEBUGGING
- 38 .comment      0000003b  00000000  00000000  00003873  2**0
+ 38 .comment      0000003b  00000000  00000000  00003886  2**0
                   CONTENTS, READONLY
- 39 .xtensa.info  00000038  00000000  00000000  000038ae  2**0
+ 39 .xtensa.info  00000038  00000000  00000000  000038c1  2**0
                   CONTENTS, READONLY
- 40 .xt.lit       00000048  00000000  00000000  000038e6  2**0
+ 40 .xt.lit       00000048  00000000  00000000  000038f9  2**0
                   CONTENTS, RELOC, READONLY
- 41 .xt.prop      00000654  00000000  00000000  0000392e  2**0
+ 41 .xt.prop      00000654  00000000  00000000  00003941  2**0
                   CONTENTS, RELOC, READONLY

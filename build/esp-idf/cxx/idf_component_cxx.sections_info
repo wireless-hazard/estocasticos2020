@@ -1,4 +1,4 @@
-In archive /home/magno/esp-idf/examples/wifi/getting_started/softAP/build/esp-idf/cxx/libcxx.a:
+In archive /home/magno/Documents/Github/estocasticos2020/build/esp-idf/cxx/libcxx.a:
 
 cxx_exception_stubs.cpp.obj:     file format elf32-xtensa-le
 
@@ -44,17 +44,17 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  19 .debug_ranges 00000030  00000000  00000000  000016e6  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 20 .debug_line   000003bf  00000000  00000000  00001716  2**0
+ 20 .debug_line   000003c9  00000000  00000000  00001716  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 21 .debug_str    00000aed  00000000  00000000  00001ad5  2**0
+ 21 .debug_str    00000ae2  00000000  00000000  00001adf  2**0
                   CONTENTS, READONLY, DEBUGGING
- 22 .comment      0000003b  00000000  00000000  000025c2  2**0
+ 22 .comment      0000003b  00000000  00000000  000025c1  2**0
                   CONTENTS, READONLY
- 23 .xtensa.info  00000038  00000000  00000000  000025fd  2**0
+ 23 .xtensa.info  00000038  00000000  00000000  000025fc  2**0
                   CONTENTS, READONLY
- 24 .xt.lit       00000028  00000000  00000000  00002635  2**0
+ 24 .xt.lit       00000028  00000000  00000000  00002634  2**0
                   CONTENTS, RELOC, READONLY
- 25 .xt.prop      000000c0  00000000  00000000  0000265d  2**0
+ 25 .xt.prop      000000c0  00000000  00000000  0000265c  2**0
                   CONTENTS, RELOC, READONLY
 
 cxx_guards.cpp.obj:     file format elf32-xtensa-le
@@ -125,15 +125,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  31 .debug_ranges 00000040  00000000  00000000  00003fa2  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 32 .debug_line   00000988  00000000  00000000  00003fe2  2**0
+ 32 .debug_line   000009ab  00000000  00000000  00003fe2  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 33 .debug_str    00002794  00000000  00000000  0000496a  2**0
+ 33 .debug_str    00002789  00000000  00000000  0000498d  2**0
                   CONTENTS, READONLY, DEBUGGING
- 34 .comment      0000003b  00000000  00000000  000070fe  2**0
+ 34 .comment      0000003b  00000000  00000000  00007116  2**0
                   CONTENTS, READONLY
- 35 .xtensa.info  00000038  00000000  00000000  00007139  2**0
+ 35 .xtensa.info  00000038  00000000  00000000  00007151  2**0
                   CONTENTS, READONLY
- 36 .xt.lit       00000030  00000000  00000000  00007171  2**0
+ 36 .xt.lit       00000030  00000000  00000000  00007189  2**0
                   CONTENTS, RELOC, READONLY
- 37 .xt.prop      00000288  00000000  00000000  000071a1  2**0
+ 37 .xt.prop      00000288  00000000  00000000  000071b9  2**0
                   CONTENTS, RELOC, READONLY

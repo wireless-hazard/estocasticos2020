@@ -1,4 +1,4 @@
-In archive /home/magno/esp-idf/examples/wifi/getting_started/softAP/build/esp-idf/tcpip_adapter/libtcpip_adapter.a:
+In archive /home/magno/Documents/Github/estocasticos2020/build/esp-idf/tcpip_adapter/libtcpip_adapter.a:
 
 tcpip_adapter_lwip.c.obj:     file format elf32-xtensa-le
 
@@ -272,15 +272,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
 133 .debug_ranges 00000210  00000000  00000000  00007043  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-134 .debug_line   00001845  00000000  00000000  00007253  2**0
+134 .debug_line   0000187c  00000000  00000000  00007253  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-135 .debug_str    00002479  00000000  00000000  00008a98  2**0
+135 .debug_str    0000246e  00000000  00000000  00008acf  2**0
                   CONTENTS, READONLY, DEBUGGING
-136 .comment      0000003b  00000000  00000000  0000af11  2**0
+136 .comment      0000003b  00000000  00000000  0000af3d  2**0
                   CONTENTS, READONLY
-137 .xtensa.info  00000038  00000000  00000000  0000af4c  2**0
+137 .xtensa.info  00000038  00000000  00000000  0000af78  2**0
                   CONTENTS, READONLY
-138 .xt.lit       000001b8  00000000  00000000  0000af84  2**0
+138 .xt.lit       000001b8  00000000  00000000  0000afb0  2**0
                   CONTENTS, RELOC, READONLY
-139 .xt.prop      00001968  00000000  00000000  0000b13c  2**0
+139 .xt.prop      00001968  00000000  00000000  0000b168  2**0
                   CONTENTS, RELOC, READONLY

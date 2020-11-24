@@ -1,4 +1,4 @@
-In archive /home/magno/esp-idf/examples/wifi/getting_started/softAP/build/esp-idf/vfs/libvfs.a:
+In archive /home/magno/Documents/Github/estocasticos2020/build/esp-idf/vfs/libvfs.a:
 
 vfs.c.obj:     file format elf32-xtensa-le
 
@@ -228,17 +228,17 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
 111 .debug_ranges 000002d8  00000000  00000000  000099fa  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-112 .debug_line   00001e1e  00000000  00000000  00009cd2  2**0
+112 .debug_line   00001e4b  00000000  00000000  00009cd2  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-113 .debug_str    0000106e  00000000  00000000  0000baf0  2**0
+113 .debug_str    00001063  00000000  00000000  0000bb1d  2**0
                   CONTENTS, READONLY, DEBUGGING
-114 .comment      0000003b  00000000  00000000  0000cb5e  2**0
+114 .comment      0000003b  00000000  00000000  0000cb80  2**0
                   CONTENTS, READONLY
-115 .xtensa.info  00000038  00000000  00000000  0000cb99  2**0
+115 .xtensa.info  00000038  00000000  00000000  0000cbbb  2**0
                   CONTENTS, READONLY
-116 .xt.lit       00000180  00000000  00000000  0000cbd1  2**0
+116 .xt.lit       00000180  00000000  00000000  0000cbf3  2**0
                   CONTENTS, RELOC, READONLY
-117 .xt.prop      00001ff8  00000000  00000000  0000cd51  2**0
+117 .xt.prop      00001ff8  00000000  00000000  0000cd73  2**0
                   CONTENTS, RELOC, READONLY
 
 vfs_uart.c.obj:     file format elf32-xtensa-le
@@ -325,113 +325,113 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
  39 .rodata.uart_tcsetattr 0000007c  00000000  00000000  00000e6c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, DATA
- 40 .rodata.str1.4 000001fe  00000000  00000000  00000ee8  2**2
+ 40 .rodata.str1.4 00000202  00000000  00000000  00000ee8  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 41 .text.uart_access 0000005a  00000000  00000000  000010e8  2**2
+ 41 .text.uart_access 0000005a  00000000  00000000  000010ec  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 42 .text.uart_open 0000005d  00000000  00000000  00001144  2**2
+ 42 .text.uart_open 0000005d  00000000  00000000  00001148  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 43 .text.uart_fcntl 00000084  00000000  00000000  000011a4  2**2
+ 43 .text.uart_fcntl 00000084  00000000  00000000  000011a8  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 44 .text.uart_fstat 00000021  00000000  00000000  00001228  2**2
+ 44 .text.uart_fstat 00000021  00000000  00000000  0000122c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 45 .text.uart_close 0000001c  00000000  00000000  0000124c  2**2
+ 45 .text.uart_close 0000001c  00000000  00000000  00001250  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 46 .text.uart_return_char 0000002a  00000000  00000000  00001268  2**2
+ 46 .text.uart_return_char 0000002a  00000000  00000000  0000126c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 47 .text.uart_fsync 00000080  00000000  00000000  00001294  2**2
+ 47 .text.uart_fsync 00000080  00000000  00000000  00001298  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 48 .text.uart_read 000000aa  00000000  00000000  00001314  2**2
+ 48 .text.uart_read 000000aa  00000000  00000000  00001318  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 49 .text.uart_write 00000075  00000000  00000000  000013c0  2**2
+ 49 .text.uart_write 00000075  00000000  00000000  000013c4  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 50 .text.uart_rx_char_via_driver 0000002c  00000000  00000000  00001438  2**2
+ 50 .text.uart_rx_char_via_driver 0000002c  00000000  00000000  0000143c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 51 .text.uart_tx_char_via_driver 00000014  00000000  00000000  00001464  2**2
+ 51 .text.uart_tx_char_via_driver 00000014  00000000  00000000  00001468  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 52 .text.esp_vfs_dev_uart_register 00000082  00000000  00000000  00001478  2**2
+ 52 .text.esp_vfs_dev_uart_register 00000082  00000000  00000000  0000147c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 53 .text.esp_vfs_dev_uart_set_rx_line_endings 00000017  00000000  00000000  000014fc  2**2
+ 53 .text.esp_vfs_dev_uart_set_rx_line_endings 00000017  00000000  00000000  00001500  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 54 .text.esp_vfs_dev_uart_set_tx_line_endings 0000000a  00000000  00000000  00001514  2**2
+ 54 .text.esp_vfs_dev_uart_set_tx_line_endings 0000000a  00000000  00000000  00001518  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 55 .text.esp_vfs_dev_uart_use_nonblocking 00000047  00000000  00000000  00001520  2**2
+ 55 .text.esp_vfs_dev_uart_use_nonblocking 00000047  00000000  00000000  00001524  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 56 .text.esp_vfs_dev_uart_use_driver 00000047  00000000  00000000  00001568  2**2
+ 56 .text.esp_vfs_dev_uart_use_driver 00000047  00000000  00000000  0000156c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 57 .rodata.__func__$7275 0000000b  00000000  00000000  000015b0  2**2
+ 57 .rodata.__func__$7275 0000000b  00000000  00000000  000015b4  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 58 .rodata.__func__$7291 00000011  00000000  00000000  000015bc  2**2
+ 58 .rodata.__func__$7291 00000011  00000000  00000000  000015c0  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 59 .rodata.__func__$7297 0000000a  00000000  00000000  000015d0  2**2
+ 59 .rodata.__func__$7297 0000000a  00000000  00000000  000015d4  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 60 .rodata.__func__$7313 0000000b  00000000  00000000  000015dc  2**2
+ 60 .rodata.__func__$7313 0000000b  00000000  00000000  000015e0  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 61 .rodata.__func__$7309 0000000b  00000000  00000000  000015e8  2**2
+ 61 .rodata.__func__$7309 0000000b  00000000  00000000  000015ec  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 62 .rodata.__func__$7319 0000000b  00000000  00000000  000015f4  2**2
+ 62 .rodata.__func__$7319 0000000b  00000000  00000000  000015f8  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 63 .rodata.__func__$7173 00000012  00000000  00000000  00001600  2**2
+ 63 .rodata.__func__$7173 00000012  00000000  00000000  00001604  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 64 .rodata.__func__$7330 0000000b  00000000  00000000  00001614  2**2
+ 64 .rodata.__func__$7330 0000000b  00000000  00000000  00001618  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 65 .rodata.__func__$7498 0000001a  00000000  00000000  00001620  2**2
+ 65 .rodata.__func__$7498 0000001a  00000000  00000000  00001624  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 66 .data.s_uart_rx_func 0000000c  00000000  00000000  0000163c  2**2
+ 66 .data.s_uart_rx_func 0000000c  00000000  00000000  00001640  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, DATA
- 67 .data.s_uart_tx_func 0000000c  00000000  00000000  00001648  2**2
+ 67 .data.s_uart_tx_func 0000000c  00000000  00000000  0000164c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, DATA
- 68 .data.s_rx_mode 0000000c  00000000  00000000  00001654  2**2
+ 68 .data.s_rx_mode 0000000c  00000000  00000000  00001658  2**2
                   CONTENTS, ALLOC, LOAD, DATA
- 69 .bss.s_tx_mode 00000004  00000000  00000000  00001660  2**2
+ 69 .bss.s_tx_mode 00000004  00000000  00000000  00001664  2**2
                   ALLOC
- 70 .bss._errorfds_orig 00000004  00000000  00000000  00001660  2**2
+ 70 .bss._errorfds_orig 00000004  00000000  00000000  00001664  2**2
                   ALLOC
- 71 .bss._writefds_orig 00000004  00000000  00000000  00001660  2**2
+ 71 .bss._writefds_orig 00000004  00000000  00000000  00001664  2**2
                   ALLOC
- 72 .bss._readfds_orig 00000004  00000000  00000000  00001660  2**2
+ 72 .bss._readfds_orig 00000004  00000000  00000000  00001664  2**2
                   ALLOC
- 73 .bss._errorfds 00000004  00000000  00000000  00001660  2**2
+ 73 .bss._errorfds 00000004  00000000  00000000  00001664  2**2
                   ALLOC
- 74 .bss._writefds 00000004  00000000  00000000  00001660  2**2
+ 74 .bss._writefds 00000004  00000000  00000000  00001664  2**2
                   ALLOC
- 75 .bss._readfds 00000004  00000000  00000000  00001660  2**2
+ 75 .bss._readfds 00000004  00000000  00000000  00001664  2**2
                   ALLOC
- 76 .bss._signal_sem 00000004  00000000  00000000  00001660  2**2
+ 76 .bss._signal_sem 00000004  00000000  00000000  00001664  2**2
                   ALLOC
- 77 .bss.s_one_select_lock 00000004  00000000  00000000  00001660  2**2
+ 77 .bss.s_one_select_lock 00000004  00000000  00000000  00001664  2**2
                   ALLOC
- 78 .bss.s_non_blocking 00000003  00000000  00000000  00001660  2**2
+ 78 .bss.s_non_blocking 00000003  00000000  00000000  00001664  2**2
                   ALLOC
- 79 .data.s_peek_char 0000000c  00000000  00000000  00001660  2**2
+ 79 .data.s_peek_char 0000000c  00000000  00000000  00001664  2**2
                   CONTENTS, ALLOC, LOAD, DATA
- 80 .bss.s_uart_write_locks 0000000c  00000000  00000000  0000166c  2**2
+ 80 .bss.s_uart_write_locks 0000000c  00000000  00000000  00001670  2**2
                   ALLOC
- 81 .bss.s_uart_read_locks 0000000c  00000000  00000000  0000166c  2**2
+ 81 .bss.s_uart_read_locks 0000000c  00000000  00000000  00001670  2**2
                   ALLOC
- 82 .rodata.s_uarts 0000000c  00000000  00000000  0000166c  2**2
+ 82 .rodata.s_uarts 0000000c  00000000  00000000  00001670  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, DATA
- 83 .debug_frame  00000280  00000000  00000000  00001678  2**2
+ 83 .debug_frame  00000280  00000000  00000000  0000167c  2**2
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 84 .debug_info   000037ea  00000000  00000000  000018f8  2**0
+ 84 .debug_info   000037ea  00000000  00000000  000018fc  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 85 .debug_abbrev 00000491  00000000  00000000  000050e2  2**0
+ 85 .debug_abbrev 00000491  00000000  00000000  000050e6  2**0
                   CONTENTS, READONLY, DEBUGGING
- 86 .debug_loc    00000ed0  00000000  00000000  00005573  2**0
+ 86 .debug_loc    00000ed0  00000000  00000000  00005577  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 87 .debug_aranges 000000e8  00000000  00000000  00006443  2**0
+ 87 .debug_aranges 000000e8  00000000  00000000  00006447  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 88 .debug_ranges 00000190  00000000  00000000  0000652b  2**0
+ 88 .debug_ranges 00000190  00000000  00000000  0000652f  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 89 .debug_line   000011fa  00000000  00000000  000066bb  2**0
+ 89 .debug_line   00001231  00000000  00000000  000066bf  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 90 .debug_str    000014f2  00000000  00000000  000078b5  2**0
+ 90 .debug_str    000014e7  00000000  00000000  000078f0  2**0
                   CONTENTS, READONLY, DEBUGGING
- 91 .comment      0000003b  00000000  00000000  00008da7  2**0
+ 91 .comment      0000003b  00000000  00000000  00008dd7  2**0
                   CONTENTS, READONLY
- 92 .xtensa.info  00000038  00000000  00000000  00008de2  2**0
+ 92 .xtensa.info  00000038  00000000  00000000  00008e12  2**0
                   CONTENTS, READONLY
- 93 .xt.lit       000000d0  00000000  00000000  00008e1a  2**0
+ 93 .xt.lit       000000d0  00000000  00000000  00008e4a  2**0
                   CONTENTS, RELOC, READONLY
- 94 .xt.prop      000015c0  00000000  00000000  00008eea  2**0
+ 94 .xt.prop      000015c0  00000000  00000000  00008f1a  2**0
                   CONTENTS, RELOC, READONLY
