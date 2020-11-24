@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DSDKCONFIG=/home/magno/esp-idf/examples/wifi/getting_started/softAP/sdkconfig;-DIDF_PATH=/home/magno/esp-idf;-DSECURE_BOOT_SIGNING_KEY=/home/magno/esp-idf/examples/wifi/getting_started/softAP;-DEXTRA_COMPONENT_DIRS=/home/magno/esp-idf/components/bootloader;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
