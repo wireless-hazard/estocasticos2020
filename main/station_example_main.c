@@ -98,7 +98,7 @@ void wifi_init_sta()
 
 void app_main()
 {
-    //Initialize NVS
+    Initialize NVS
     esp_err_t ret = nvs_flash_init();
     if (ret == ESP_ERR_NVS_NO_FREE_PAGES || ret == ESP_ERR_NVS_NEW_VERSION_FOUND) {
       ESP_ERROR_CHECK(nvs_flash_erase());
