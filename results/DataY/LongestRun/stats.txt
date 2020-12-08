@@ -1,0 +1,13 @@
+			  LONGEST RUNS OF ONES TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) N (# of substrings)  = 122
+		(b) M (Substring Length) = 128
+		(c) Chi^2                = 3.362045
+		---------------------------------------------
+		      F R E Q U E N C Y
+		---------------------------------------------
+		<=4  5  6  7  8  >=9 P-value  Assignment
+		  16  26  35  18  16   11 SUCCESS		p_value = 0.644357
+
